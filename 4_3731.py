@@ -1,5 +1,7 @@
 class Solution:
     def findMissingElements(self, nums: List[int]) -> List[int]:
+        # topics: array, sorting, hash table
+        
         # Intuition
 
         # approach 1
