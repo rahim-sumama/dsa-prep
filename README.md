@@ -3,7 +3,7 @@
 
 | Target | Timeline | Status | Solved | Algo learned |
 |---|----|---|---|---|
-| 25 Problems | Sep 2026 | Started on Aug 29th | 4 out of 25 | Two Pointers |
+| 25 Problems | Sep 2026 | Started on Aug 29th | 5 out of 25 | Two Pointers |
 | 20 Problems | October 2026 |  |
 | **20 Problems** | **November 2026** |
 | **20 Problems** | **December 2026** |
@@ -14,9 +14,10 @@
 ## Total
 **100 problems ==>> Feb 2027**  
 
-## Problem List  
+# Problem List  
+## Two Pointers  
 
-### [125](1_125.py)  
-### [9](2_9.py)  
-### [680](3_680.py)
- 
+[125](1_125.py)  
+[9](2_9.py)  
+[680](3_680.py)  
+[27](5_27.py)
