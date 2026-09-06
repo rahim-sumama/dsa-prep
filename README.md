@@ -3,7 +3,7 @@
 
 | Target | Timeline | Status | Solved | Algo learned |
 |---|----|---|---|---|
-| 25 Problems | Sep 2026 | Started on Aug 29th | 5 out of 25 | Two Pointers |
+| 25 Problems | Sep 2026 | Started on Aug 29th | 6 out of 25 | Two Pointers |
 | 20 Problems | October 2026 |  |
 | **20 Problems** | **November 2026** |
 | **20 Problems** | **December 2026** |
@@ -21,3 +21,4 @@
 [9](2_9.py)  
 [680](3_680.py)  
 [27](5_27.py)
+[344](6_344.py)
