@@ -1,7 +1,7 @@
 # GOAL
 `Started on Aug 29, 2026`  
 
-| Target | Timeline | Status | Solved | Algo learned |
+| Target | Timeline | Status | Solved | Algos & Techniques learned |
 |---|----|---|---|---|
 | 25 Problems | Sep 2026 | Started on Aug 29th | 7 out of 25 | Two Pointers, merge sort |
 | 20 Problems | October 2026 |  |
