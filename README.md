@@ -3,7 +3,7 @@
 
 | Target | Timeline | Status | Solved | Algos & Techniques learned |
 |---|----|---|---|---|
-| 25 Problems | Sep 2026 | Started on Aug 29th | 8 out of 25 | Two Pointers, merge sort |
+| 25 Problems | Sep 2026 | Started on Aug 29th | 9 out of 25 | Two Pointers, merge sort |
 | 20 Problems | October 2026 |  |
 | **20 Problems** | **November 2026** |
 | **20 Problems** | **December 2026** |
@@ -24,3 +24,4 @@
 [344](6_344.py) 
 [88 - Merged sort and Two Pointer](7_88.py) 
 [345](8_345.py) 
+[349](9_349.py)
